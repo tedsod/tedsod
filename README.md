@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tedsod
-- 👀 I’m interested in Python and javascript development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
+Hi, I’m @tedsod currently studying Computer Science at Duke University
 
 <!---
 tedsod/tedsod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
